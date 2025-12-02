@@ -35,7 +35,7 @@ There is no frozen release version by design.
 ## Framework Content
 
 The current full framework specification is maintained here:
-[framewok](https://github.com/TH3xR34P3R/confidence-inflation-detection/blob/4742ef7b7947cb9f36a1db50afabb3177bde5cfc/framewok)
+[Framework](https://github.com/TH3xR34P3R/confidence-inflation-detection/blob/4742ef7b7947cb9f36a1db50afabb3177bde5cfc/framewok)
 
 ## Feedback
 
