@@ -37,6 +37,8 @@ There is no frozen release version by design.
 The current full framework specification is maintained here:
 [Framework](https://github.com/TH3xR34P3R/confidence-inflation-detection/blob/4742ef7b7947cb9f36a1db50afabb3177bde5cfc/framewok)
 
+The framework contains all inputs used at each stage for transparency.
+
 ## Feedback
 
 Technical critique, failure analysis, and adversarial stress testing are explicitly welcome.
