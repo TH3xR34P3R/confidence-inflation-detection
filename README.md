@@ -39,7 +39,7 @@ The current full framework specification is maintained here:
 
 The framework exposes all inputs used at each evaluation stage for external audit, replication, and end-to-end transparency.
 
-A live version of the framework for testing is found at chatgpt.com/share/6927fafa-d69c-8011-88fb-8376f7ff200b for those not able to import or just want to use source version for comparison.
+A live version of the framework for testing is found at [chatgpt.com/share/6927fafa-d69c-8011-88fb-8376f7ff200b](https://chatgpt.com/share/6927fafa-d69c-8011-88fb-8376f7ff200b) for those not able to import or just want to use source version for comparison. This version acts as a clean slate testing area on refresh.
 
 ## Feedback
 
