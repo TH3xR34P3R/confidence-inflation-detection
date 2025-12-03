@@ -46,3 +46,11 @@ A live version of the framework for testing is found at [chatgpt.com/share/6927f
 Technical critique, failure analysis, and adversarial stress testing are explicitly welcome.
 If you believe the framework is flawed or incomplete, please open an issue describing
 where and how it breaks.
+
+## NCI Engineered Reality Scoring System Comparisons
+[NCI Engineered Reality Scoring System.pdf](https://github.com/user-attachments/files/23896708/NCI.Engineered.Reality.Scoring.System.pdf)
+
+<img width="910" height="860" alt="Screenshot 2025-12-03 150456" src="https://github.com/user-attachments/assets/a6fb3071-8380-4f27-ba15-6f4f52beafd8" />
+<img width="860" height="1492" alt="Screenshot 2025-12-03 150512" src="https://github.com/user-attachments/assets/8045a99f-dcfc-4c09-a579-f9443b142d29" />
+
+
