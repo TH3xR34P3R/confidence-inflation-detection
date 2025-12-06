@@ -42,11 +42,9 @@ The framework exposes all inputs used at each evaluation stage for external audi
 A live version of the framework for testing is found at [chatgpt.com/share/6927fafa-d69c-8011-88fb-8376f7ff200b](https://chatgpt.com/share/6927fafa-d69c-8011-88fb-8376f7ff200b) for those not able to import or just want to use source version for comparison. This version acts as a clean slate testing area on refresh.
 
 ## Baseline Avatar
-Due to the image not being avaliable on the thread here are 2 versions of the baseline recreated to be used as reference points:
+Due to the image not being avaliable on the thread here is a version of the baseline recreated to be used as a reference point:
 
-<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/05e0326d-b9a5-4b4a-b88b-23d319b49865" />
-
-<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/1fd32fe6-eae4-4f2f-a9d4-4d3222c69722" />
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/19c33e32-0f49-4af0-a386-9cf08ce2485b" />
 
 
 
